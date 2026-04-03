@@ -1,5 +1,17 @@
 # Fraud Detection System
-
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-Anomaly%20Detection-orange)
+![Rule Engine](https://img.shields.io/badge/Engine-Rules-blueviolet)
+![Real-Time](https://img.shields.io/badge/System-Real--Time-success)
+![Low Latency](https://img.shields.io/badge/Latency-%3C1ms-brightgreen)
+![AWS Ready](https://img.shields.io/badge/AWS-Serverless-FF9900?logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Streaming-Kafka-231F20?logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-100%25%20Passing-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+---
 A real-time transaction fraud scoring engine written in pure Python.  
 Combines a deterministic rule engine with a statistical ML model to classify every transaction as **APPROVE**, **REVIEW**, or **BLOCK** — with sub-millisecond latency.
 
